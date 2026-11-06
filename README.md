@@ -13,6 +13,6 @@ I build the systems applications run on, keep them running in production, and co
 - **Code:** Go, Bash, SQL, JavaScript (Vue)
 - **Lately:** AI-assisted engineering with Claude Code and multi-agent workflows
 
-**[Full resume](https://github.com/RKdev/resume)** · [LinkedIn](https://www.linkedin.com/in/james-keys-6a926570) · [keys@novelbusiness.llc](mailto:keys@novelbusiness.llc)
+**[Full resume](https://rkdev.github.io/resume/)** · [LinkedIn](https://www.linkedin.com/in/james-keys-6a926570) · [keys@novelbusiness.llc](mailto:keys@novelbusiness.llc)
 
 Open to Platform, DevOps and infrastructure roles, remote or Johnson City, TN.
